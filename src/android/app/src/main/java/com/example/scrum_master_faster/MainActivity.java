@@ -1,4 +1,4 @@
-package pl.raixdev.scurmmasterfaster;
+package pl.raixdev.scrummasterfaster;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;
